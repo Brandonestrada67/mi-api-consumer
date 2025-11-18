@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop Ultraligera",
+    "precio": 999.99,
+    "descripcion": "Ideal para trabajo remoto y estudiantes."
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor Curvo 4K",
+    "precio": 450.00,
+    "descripcion": "Experiencia de visualización inmersiva."
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico RGB",
+    "precio": 85.50,
+    "descripcion": "Rápido y cómodo para programadores."
+  }
+]
